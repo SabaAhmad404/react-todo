@@ -38,7 +38,7 @@ Minimalist To Do List Project is a website that helps to organize your day. It s
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-  - [live version](https://sabaahmad404.github.io/react-todo/dist)
+   -  coming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
