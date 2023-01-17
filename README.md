@@ -28,10 +28,6 @@
 **React-Todo Project** 
 Minimalist To Do List Project is a website that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete. It is inspired by the minimalist website. .
 
-- Make simple calculations.
-- Read a random math-related quote.
-
-
 ## 🛠 Built With <a name="built-with"></a>
     React
     Javascript(ES6)
