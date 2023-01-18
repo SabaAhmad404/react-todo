@@ -1,70 +1,131 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
+<div align="center">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
-## Available Scripts
+</div>
+<!-- TABLE OF CONTENTS -->
 
-In the project directory, you can run:
+# 📗 Table of Contents
 
-### `npm start`
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Todo List Project](#-React-todo)
+  - [🛠 Built With ](#-built-with-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<!-- PROJECT DESCRIPTION -->
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# 📖 Math-magician<a name="about-project"></a>
 
-### `npm test`
+**React-Todo Project** 
+Minimalist To Do List Project is a website that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete. It is inspired by the minimalist website. .
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠 Built With <a name="built-with"></a>
+    React
+    Javascript(ES6)
+    Webpack
 
-### `npm run build`
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🚀 Live Demo <a name="live-demo"></a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   -  coming soon
 
-### `npm run eject`
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 💻 Getting Started <a name="getting-started"></a>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Create a local directory that you want to clone the repository.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Open the command prompt in the created directory.
 
-## Learn More
+- On the terminal run this command git clone ``
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Go to the repository folder using command prompt cd `
+react-todo
+`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Install the dev dependencies for linters run npm install.
+- setup Webpack
 
-### Code Splitting
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Prerequisites
 
-### Analyzing the Bundle Size
+In order to run this project you need:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+-Any broswer
+- knowledge of ES6 modules
+- familiarity with basic git commands
+- working knowledge of webpack
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Advanced Configuration
+### Setup
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Clone this repository to your desired folder:
 
-### Deployment
+- Open the command prompt in the created directory.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- On the terminal run this command git clone git@github.com:SabaAhmad404/react-todo.git
 
-### `npm run build` fails to minify
+- Go to the repository folder using command prompt cd awesome-books-project
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Install the dev dependencies for linters run npm install.
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Author -->
+
+👤 **Authors**
+Saba Ahmad
+
+- GitHub: [@SabaAhmad786](https://github.com/SabaAhmad786)
+- LinkedIn: [@saba ahmad](https://www.linkedin.com/in/saba-ahmad-97b938244/)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- Implement some UX improvements: added transitions and/or animation.
+
+- Implement additional pages.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](git@github.com:SabaAhmad404/react-todo.git/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## ⭐️ Show your support <a name="support"></a>
+
+Give a ⭐️ if you like this project!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
