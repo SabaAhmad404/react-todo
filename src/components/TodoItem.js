@@ -11,6 +11,11 @@ class TodoItem extends React.Component {
       editing: true,
     });
   };
+  handleUpdatedDone = (event) => {
+    if (event.key === "Enter") {
+      this.setState({ editing: false });
+    }
+  };
   render() {
     const completedStyle = {
       fontStyle: "italic",
@@ -32,11 +37,21 @@ class TodoItem extends React.Component {
         <div onDoubleClick={this.handleEditing} style={viewMode}>
           {" "}
           <input
+            type="text"
+            style={editMode}
+            className={styles.textInput}
+            value={title}
+            onChange={(e) => {
+              this.props.setUpdate(e.target.value, id);
+            }}
+            onKeyDown={this.handleUpdatedDone}
+          />
+          {/* <input
             type="checkbox"
             className={styles.checkbox}
             checked={completed}
             onChange={() => this.props.handleChangeProps(id)}
-          />
+          /> */}
           <button onClick={() => props.deleteTodoProps(id)}>
             <FaTrash style={{ color: "orangered", fontSize: "16px" }} />
           </button>
